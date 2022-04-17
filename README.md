@@ -1,1 +1,1 @@
-# heap
+According to the announcement regarding the assignment 4 of Software Lab, I have tried to implement heap to the best of my ability (as mentioned in the announcement, to post the assignment even if it isn't complete). I will need to undergo further study to implement the detailed nuances like mark-sweep and reference counting methods of garbage collection, but with the time being limited, I hereby submit the simple first fit implementation of allocator.
